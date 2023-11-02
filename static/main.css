@@ -13,15 +13,8 @@ h1,h2,h3{
 
 }
 
-
-
 p,a,li{
 	font-family: 'Noto Sans', sans-serif;
-}
-
-a:hover{
-    background-color: fuchsia;
-    color: white;
 }
 
 img {
@@ -32,4 +25,3 @@ img {
     padding: 5px;
     border: 5px hidden;
 }
-
